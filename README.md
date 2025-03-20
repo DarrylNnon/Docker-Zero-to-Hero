@@ -359,4 +359,7 @@ c5ff2d88f679: Mounted from library/ubuntu
 latest: digest: sha256:6e49841ad9e720a7baedcd41f9b666fcd7b583151d0763fe78101bb8221b1d88 size: 1157
 ```
 
-### You must be feeling like a champ already 
+### Result after following the step below
+
+![image](https://github.com/user-attachments/assets/2f13ab51-0eeb-453d-926d-7a57a8be8128)
+
